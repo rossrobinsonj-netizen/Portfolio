@@ -1,7 +1,7 @@
 export default function Project() {
-return (
-<div>
-<p>My Projects</p>
-</div>
-);
+    return (
+        <div>
+            <p>My Projects</p>
+        </div>
+    );
 }
